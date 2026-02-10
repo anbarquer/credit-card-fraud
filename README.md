@@ -1,5 +1,3 @@
-# abarqueroc-tfm-uoc
-
 # Setup
 * Tested in Ubuntu 20.04.4 LTS
 
