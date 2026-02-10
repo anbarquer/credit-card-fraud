@@ -3,8 +3,8 @@
 # Setup
 * Tested in Ubuntu 20.04.4 LTS
 
-Download the dataset and set a `creditcard.csv` file in the root folder
-You can get the data from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
+Download the dataset and set a `creditcard.csv` file in the root folder.
+You can download it from [Kaggle](https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 
 ## Linux 
 
